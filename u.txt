@@ -1,0 +1,11 @@
+
+1	Apple	Vegetables	8	-1
+2	Meat	Meat	90	149
+3	Fish	Meat	20	67
+4	Chocolate	Takeaway	6	77
+5	Cake	Takeaway	8	87
+6	Cake	Takeaway	8	100
+7	Cake	Takeaway	8	100
+8	Cake	Takeaway	8	98
+9	Cake	Takeaway	8	100
+10	Cake	Takeaway	8	100

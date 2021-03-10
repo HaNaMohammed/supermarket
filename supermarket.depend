@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1512994870 source:c:\users\toshiba\desktop\supermarket\main.cpp
+	<iostream>
+	<string>
+	"Item.h"
+	"Stock.h"
+	"Customer.h"
+
+1512998835 c:\users\toshiba\desktop\supermarket\item.h
+	<iostream>
+	<string.h>
+
+1512999125 source:c:\users\toshiba\desktop\supermarket\item.cpp
+	"Item.h"
+	<string.h>
+
+1513004087 c:\users\toshiba\desktop\supermarket\stock.h
+	<iostream>
+	<fstream>
+	"Item.h"
+	<iomanip>
+
+1512998814 c:\users\toshiba\desktop\supermarket\customer.h
+
+1512999125 source:c:\users\toshiba\desktop\supermarket\customer.cpp
+	"Customer.h"
+
+1513002942 source:c:\users\toshiba\desktop\supermarket\stock.cpp
+	"Stock.h"
+	<string.h>
+	<fstream>
+	"Item.h"
+
+1512999126 source:c:\users\yasmeen\desktop\supermarket\customer.cpp
+	"Customer.h"
+
+1512998816 c:\users\yasmeen\desktop\supermarket\customer.h
+
+1512999126 source:c:\users\yasmeen\desktop\supermarket\item.cpp
+	"Item.h"
+	<string.h>
+
+1512998836 c:\users\yasmeen\desktop\supermarket\item.h
+	<iostream>
+	<string.h>
+
+1513094046 source:c:\users\yasmeen\desktop\supermarket\main.cpp
+	<iostream>
+	<string>
+	"Item.h"
+	"Stock.h"
+	"Customer.h"
+
+1513092203 c:\users\yasmeen\desktop\supermarket\stock.h
+	<iostream>
+	<fstream>
+	"Item.h"
+	<iomanip>
+
+1513096072 source:c:\users\yasmeen\desktop\supermarket\stock.cpp
+	"Stock.h"
+	<string.h>
+	<fstream>
+	"Item.h"
+
+1513780051 source:c:\users\twix\documents\egdownloads\supermarket\supermarket\customer.cpp
+	"Customer.h"
+	"Stock.h"
+	<string.h>
+	<fstream>
+	"Item.h"
+
+1513780051 c:\users\twix\documents\egdownloads\supermarket\supermarket\customer.h
+	"Person.h"
+
+1513172997 source:c:\users\twix\documents\egdownloads\supermarket\supermarket\item.cpp
+	"Item.h"
+	"Stock.h"
+	<string.h>
+
+1513173953 c:\users\twix\documents\egdownloads\supermarket\supermarket\item.h
+	<iostream>
+	<string.h>
+
+1513777350 source:c:\users\twix\documents\egdownloads\supermarket\supermarket\main.cpp
+	<iostream>
+	<string>
+	"Item.h"
+	"Stock.h"
+	"Customer.h"
+	"bits/c++config.h"
+	"time.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1513609476 c:\users\twix\documents\egdownloads\supermarket\supermarket\stock.h
+	<iostream>
+	<fstream>
+	"Item.h"
+	<iomanip>
+
+1513606464 source:c:\users\twix\documents\egdownloads\supermarket\supermarket\stock.cpp
+	"Stock.h"
+	<string.h>
+	<fstream>
+	"Item.h"
+
+1513523221 c:\users\twix\documents\egdownloads\supermarket\supermarket\time.h
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+
+1513523221 source:c:\users\twix\documents\egdownloads\supermarket\supermarket\time.cpp
+	"time.h"
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1513600080 source:c:\users\twix\documents\egdownloads\supermarket\supermarket\person.cpp
+	"Person.h"
+
+1513600083 c:\users\twix\documents\egdownloads\supermarket\supermarket\person.h
+	<string>
+	<iostream>
+
+1513779853 source:c:\users\twix\documents\egdownloads\supermarket\supermarket\admin.cpp
+	"admin.h"
+	<string.h>
+	"Customer.h"
+
+1513779808 c:\users\twix\documents\egdownloads\supermarket\supermarket\admin.h
+	"Customer.h"
+	"Stock.h"
+
+1513779854 source:d:\fcai\projects\supermarket\admin.cpp
+	"admin.h"
+	<string.h>
+	"Customer.h"
+
+1513779810 d:\fcai\projects\supermarket\admin.h
+	"Customer.h"
+	"Stock.h"
+
+1513780052 d:\fcai\projects\supermarket\customer.h
+	"Person.h"
+
+1513600084 d:\fcai\projects\supermarket\person.h
+	<string>
+	<iostream>
+
+1513609478 d:\fcai\projects\supermarket\stock.h
+	<iostream>
+	<fstream>
+	"Item.h"
+	<iomanip>
+
+1513173954 d:\fcai\projects\supermarket\item.h
+	<iostream>
+	<string.h>
+
+1513172998 source:d:\fcai\projects\supermarket\item.cpp
+	"Item.h"
+	"Stock.h"
+	<string.h>
+
+1513780392 source:d:\fcai\projects\supermarket\main.cpp
+	<iostream>
+	<string>
+	"Item.h"
+	"Stock.h"
+	"admin.h"
+	"Customer.h"
+	"bits/c++config.h"
+	"time.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1513523222 d:\fcai\projects\supermarket\time.h
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+
+1513600082 source:d:\fcai\projects\supermarket\person.cpp
+	"Person.h"
+
+1513606466 source:d:\fcai\projects\supermarket\stock.cpp
+	"Stock.h"
+	<string.h>
+	<fstream>
+	"Item.h"
+
+1513523222 source:d:\fcai\projects\supermarket\time.cpp
+	"time.h"
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
